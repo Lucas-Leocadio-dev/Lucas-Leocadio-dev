@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lucas-Leocadio-dev
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning HTML, CSS and JS
+- 📫 How to reach me: lucasleocadio05@gmail.com
